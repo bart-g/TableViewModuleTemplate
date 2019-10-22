@@ -1,21 +1,21 @@
 ![Super Simple Architecture](SuperSimple.png)
-# Super Simple Module Template
+# TableView Module Template
 
-Template for creating Super Simple module with cookiecutter
+Template for creating Super Simple table view module with cookiecutter
 
 ## Usage
 1. Install [cookiecutter](https://github.com/audreyr/cookiecutter):
 
     ```$ brew install cookiecutter```
-2. Move to modules directory in your project
+2. Change directory to modules directory in your project
 3. For the first time run:
 
-    ```$ cookiecutter git+https://github.com/bart-g/Super-Simple-Module-Template```
+    ```$ cookiecutter git+https://github.com/bart-g/TableViewModuleTemplate```
    
     to create the module and local module template.
     Since then you can just simply run:
     
-    ```$ cookiecutter Super-Simple-Module-Template```
+    ```$ cookiecutter TableViewModuleTemplate```
     
 4. Enter module's name:
 
